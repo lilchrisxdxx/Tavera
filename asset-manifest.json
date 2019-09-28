@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tavera/static/css/main.2b74f2bb.chunk.css",
+    "main.js": "/Tavera/static/js/main.0b4eff7a.chunk.js",
+    "main.js.map": "/Tavera/static/js/main.0b4eff7a.chunk.js.map",
+    "runtime-main.js": "/Tavera/static/js/runtime-main.fbf9d19e.js",
+    "runtime-main.js.map": "/Tavera/static/js/runtime-main.fbf9d19e.js.map",
+    "static/js/2.34b7421c.chunk.js": "/Tavera/static/js/2.34b7421c.chunk.js",
+    "static/js/2.34b7421c.chunk.js.map": "/Tavera/static/js/2.34b7421c.chunk.js.map",
+    "index.html": "/Tavera/index.html",
+    "precache-manifest.b0f3ebbe1dfa285eb2b7f8c094c95cb6.js": "/Tavera/precache-manifest.b0f3ebbe1dfa285eb2b7f8c094c95cb6.js",
+    "service-worker.js": "/Tavera/service-worker.js",
+    "static/css/main.2b74f2bb.chunk.css.map": "/Tavera/static/css/main.2b74f2bb.chunk.css.map"
+  }
+}
